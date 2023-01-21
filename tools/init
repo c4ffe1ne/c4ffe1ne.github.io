@@ -105,6 +105,6 @@ while (($#)); do
   esac
 done
 
-checkout_latest_tag
+
 
 init_files
